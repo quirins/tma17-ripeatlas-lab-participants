@@ -1,0 +1,3 @@
+[submodule "tls-cca"]
+	path = tls-cca
+	url = https://github.com/tumi8/cca-privacy
