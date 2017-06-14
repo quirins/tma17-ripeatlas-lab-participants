@@ -1,4 +1,4 @@
-# tma17-ripeatlas-lab-particpants
+# tma17-ripeatlas-lab-participants
 Public Repository for Participants of the TMA'17 PhD School Lab on RIPE Atlas
 
 This repository consists of data specific to the exercise. 
