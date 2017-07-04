@@ -4,6 +4,9 @@ Public Repository for Participants of the TMA'17 PhD School Lab on RIPE Atlas
 This repository consists of data specific to the exercise. 
 It also contains a submodule tls-cca which points to a git repository with scripts and more data that can be used in the exercise.
 
+Video from [lecture](	https://youtu.be/7Riz80tgkyg) and [lab](https://youtu.be/1froq9uJd9k).
+
+
 ## Structure:
 
 * data
